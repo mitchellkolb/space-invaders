@@ -2,25 +2,29 @@
 <h1 align="center">Space Invaders</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/GIT-REPO?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/space-invaders?color=76A738">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/GIT-REPO?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/space-invaders?color=76A738">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/GIT-REPO?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/space-invaders?color=76A738">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/GIT-REPO?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/space-invaders?color=76A738" />
 </p>
 
 <p align="center">
 <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
+    src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
     alt="Website Badge" />
 <img
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows 10&logoColor=white"
+    src="https://img.shields.io/badge/SFML-76A738?style=for-the-badge&logo=sfml&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"
     alt="Website Badge" />
 </p>
 
-This project is intended to showcase our knowledge learning about Neural Network Design by developing a
+
+We created a customized version of the 1978 classic "Space Invaders" using C++ and SFML to demonstrate knowledge of classes, inheritance, and polymorphism. This version features unique sprites and music for ships, missiles, and the background. The player's goal is to shoot down alien ships and survive as long as possible. Use 'A' and 'D' keys to move left and right, and the space key to shoot missiles. A new feature allows the player's ship to wrap around the screen edges. Alien ships move left and right, and the game ends if one passes the player. After pressing 'S' to close the game, the score of defeated alien ships is displayed.
 
 ![project image](resources/image1.png)
 
