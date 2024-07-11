@@ -24,7 +24,7 @@
 </p>
 
 
-We created a customized version of the 1978 classic "Space Invaders" using C++ and SFML to demonstrate knowledge of classes, inheritance, and polymorphism. This version features unique sprites and music for ships, missiles, and the background. The player's goal is to shoot down alien ships and survive as long as possible. Use 'A' and 'D' keys to move left and right, and the space key to shoot missiles. A new feature allows the player's ship to wrap around the screen edges. Alien ships move left and right, and the game ends if one passes the player. After pressing 'S' to close the game, the score of defeated alien ships is displayed.
+We created a customized version of the 1978 classic "Space Invaders" using C++ and SFML to demonstrate knowledge of classes, inheritance, and polymorphism. This version features unique sprites and music for ships, missiles, and the background. The player's goal is to shoot down alien ships and survive as long as possible.
 
 ![project image](resources/space-invaders-highlight.gif)
 
@@ -34,6 +34,7 @@ We created a customized version of the 1978 classic "Space Invaders" using C++ a
 [![Full Video Demo Here](https://img.youtube.com/vi/0veC2d0xlrk/0.jpg)](https://www.youtube.com/watch?v=0veC2d0xlrk)
 
 </details>
+
 ---
 
 
