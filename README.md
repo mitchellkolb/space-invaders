@@ -50,12 +50,14 @@ We created a customized version of the 1978 classic "Space Invaders" using C++ a
 ---
 
 # What I Learned in this Project
-- How to
-- Programming in 
+- How to code using C++ and the SFML graphics library
+- Programming with classes, inheritance, and polymorphism
+- Using sprites to make a game with collision
+- How to code a project remotely in a group of four
 
 
 
-# Tools Used / Development Environment
+# Tools Used / Development Environmen
 - C++
 - SFML
 - VS Code
