@@ -26,7 +26,7 @@
 
 We created a customized version of the 1978 classic "Space Invaders" using C++ and SFML to demonstrate knowledge of classes, inheritance, and polymorphism. This version features unique sprites and music for ships, missiles, and the background. The player's goal is to shoot down alien ships and survive as long as possible. Use 'A' and 'D' keys to move left and right, and the space key to shoot missiles. A new feature allows the player's ship to wrap around the screen edges. Alien ships move left and right, and the game ends if one passes the player. After pressing 'S' to close the game, the score of defeated alien ships is displayed.
 
-![project image](resources/image1.png)
+![project image](resources/space-invaders-highlight.gif)
 
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
@@ -55,10 +55,11 @@ We created a customized version of the 1978 classic "Space Invaders" using C++ a
 
 
 # Tools Used / Development Environment
-- Python
+- C++
+- SFML
 - VS Code
 - Terminal
-- Windows 10
+- MacOS
 
 
 
@@ -66,8 +67,12 @@ We created a customized version of the 1978 classic "Space Invaders" using C++ a
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- [name]()
-- Professor. 
+- Sebastian Cordero
+- Jonathan Qiaoshun Sun
+- Dewan Salehin
+- Professor. Nadra Guizani
+
+
 
 
 
