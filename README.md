@@ -31,10 +31,9 @@ We created a customized version of the 1978 classic "Space Invaders" using C++ a
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
 
-[![Full Video Demo Here](https://img.youtube.com/vi/VidKEY/0.jpg)](https://www.youtube.com/watch?v=VidKEY)
+[![Full Video Demo Here](https://img.youtube.com/vi/0veC2d0xlrk/0.jpg)](https://www.youtube.com/watch?v=0veC2d0xlrk)
 
 </details>
-
 ---
 
 
