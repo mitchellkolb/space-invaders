@@ -24,7 +24,7 @@
 </p>
 
 
-We created a customized version of the 1978 classic "Space Invaders" using C++ and SFML to demonstrate knowledge of classes, inheritance, and polymorphism. This version features unique sprites and music for ships, missiles, and the background. The player's goal is to shoot down alien ships and survive as long as possible.
+Our team created a customized version of the 1978 classic "Space Invaders" using C++ and SFML to demonstrate our knowledge of classes, inheritance, and polymorphism. This version features unique sprites and music for ships, missiles, and the background. The player's goal is to shoot down alien ships and survive as long as possible.
 
 ![project image](resources/space-invaders-highlight.gif)
 
