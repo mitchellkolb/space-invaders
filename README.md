@@ -44,7 +44,12 @@ Our team created a customized version of the 1978 classic "Space Invaders" using
 - [Team / Contributors / Teachers](#team--contributors--teachers)
 - [How to Set Up](#how-to-set-up)
 - [Project Overview](#project-overview)
-- [References](#references)
+- [Project Details](#project-details)
+  - [Technical Plan](#technical-plan)
+  - [Implementation Details](#implementation-details)
+    - [Files and Structure](#files-and-structure)
+    - [C++ Skills (classes, inheritance, and polymorphism)](#c-skills-classes-inheritance-and-polymorphism)
+    - [Results and Scoring](#results-and-scoring)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -92,48 +97,28 @@ This project was implemented on our local machine inside of a virtual machine us
 
 
 # Project Overview
-This project utilizes 
-
-
+In this project our team of 4 apply fundamental C++ concepts and game development techniques to recreate the classic 1978 arcade game "Space Invaders." We used custom sprites, sound effects, and background music to enhance the player experience. The goal is to shoot down alien ships with missiles while avoiding being overrun.
 
 ## Project Details
 
-### Introduction
-In this project, we apply 
-
-
-### Literature Review
-In this we drew inspiration from various sources, including video tutorials online for 
-
-
 ### Technical Plan
-The project employs a 
-
+The project employs object-oriented programming principles, including the use of classes, inheritance, and polymorphism. We utilized the Simple and Fast Multimedia Library (SFML) to handle graphics, audio, and window operations, enabling smooth gameplay and visual effects.
 
 ### Implementation Details
 
 #### Files and Structure
-- `game.py`: Contains the racing game environment and controls the car's movement.
-> [!NOTE]
-> These files were 
+- `main.cpp`: Contains the main game loop, event handling, and game logic.
+- `points.cpp`: Defines the behavior of the game entities such as the player and alien ships.
+- `points.h`: Declares the classes and their member functions used in the game.
+- `point_interface.h`: Contains the interface for the points class.
+
+#### C++ Skills (classes, inheritance, and polymorphism)
+In this project, we implemented multiple C++ concepts such as classes to define game entities, inheritance to create specialized versions of these entities, and polymorphism to manage different behaviors through a unified interface. This allowed us to create a flexible and modular codebase that can be easily extended and maintained.
+
+#### Results and Scoring
+During development, we focused on creating a smooth and responsive gameplay experience. The player's score is displayed at the end of the game, reflecting the number of alien ships shot down. Here are some screenshots showcasing the game's progress:
 
 
-### Implementation
-In this project
-
-#### Results and Observations
-During development,
-<p float="left">
-  <img src="resources/image1.png" alt="First Try" width="300" />
-  <img src="resources/image2.png" alt="Final Try" width="307" />
-</p>
-
-#### Future Work
-Future improvements could include
-
-
-
-## References
 
 
 
