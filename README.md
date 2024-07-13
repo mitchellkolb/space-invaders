@@ -44,7 +44,7 @@ Our team created a customized version of the 1978 classic "Space Invaders" using
 - [Team / Contributors / Teachers](#team--contributors--teachers)
 - [How to Set Up](#how-to-set-up)
 - [Project Overview](#project-overview)
-- [Project Details](#project-details)
+  - [Project Details](#project-details)
   - [Files and Structure](#files-and-structure)
   - [C++ Skills](#c-skills)
   - [Results and Scoring](#results-and-scoring)
@@ -97,7 +97,7 @@ This project was implemented on our local machine inside of a virtual machine us
 # Project Overview
 In this project our team of 4 apply fundamental C++ concepts and game development techniques to recreate the classic 1978 arcade game "Space Invaders." We used custom sprites, sound effects, and background music to enhance the player experience. The goal is to shoot down alien ships with missiles while avoiding being overrun.
 
-# Project Details
+## Project Details
 The project employs object-oriented programming principles, including the use of classes, inheritance, and polymorphism. We utilized the Simple and Fast Multimedia Library (SFML) to handle graphics, audio, and window operations, enabling smooth gameplay and visual effects.
 
 ## Files and Structure
