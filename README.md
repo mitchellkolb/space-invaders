@@ -97,19 +97,19 @@ This project was implemented on our local machine inside of a virtual machine us
 # Project Overview
 In this project our team of 4 apply fundamental C++ concepts and game development techniques to recreate the classic 1978 arcade game "Space Invaders." We used custom sprites, sound effects, and background music to enhance the player experience. The goal is to shoot down alien ships with missiles while avoiding being overrun.
 
-## Project Details
+# Project Details
 The project employs object-oriented programming principles, including the use of classes, inheritance, and polymorphism. We utilized the Simple and Fast Multimedia Library (SFML) to handle graphics, audio, and window operations, enabling smooth gameplay and visual effects.
 
-### Files and Structure
+## Files and Structure
 - `main.cpp`: Contains the main game loop, event handling, and game logic.
 - `points.cpp`: Defines the behavior of the game entities such as the player and alien ships.
 - `points.h`: Declares the classes and their member functions used in the game.
 - `point_interface.h`: Contains the interface for the points class.
 
-### C++ Skills
+## C++ Skills
 In this project, we implemented multiple C++ concepts such as classes to define game entities, inheritance to create specialized versions of these entities, and polymorphism to manage different behaviors through a unified interface. This allowed us to create a flexible and modular codebase that can be easily extended and maintained.
 
-### Results and Scoring
+## Results and Scoring
 During development, we focused on creating a smooth and responsive gameplay experience. The player's score is displayed at the end of the game on the screen and in the terminal, reflecting the number of alien ships shot down.
 
 
