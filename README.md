@@ -85,10 +85,13 @@ Our team created a customized version of the 1978 classic "Space Invaders" using
 
 
 # How to Set Up
-This project was implemented on our local machine inside of a virtual machine using:
-- Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+This project was implemented on our local machines:
+- Install the SFML C++ library at this [SFML Link](https://www.sfml-dev.org/download.php)
 - Clone this repository 
-- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
+- Open terminal at the codebase `~.../space-invaders/space-invaders/`
+- Enter `g++ -c main.cpp points.cpp`
+- Enter `g++ main.o points.o -o sfml-app -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system`
+- Enter `./sfml-app` to run the game. 
 
 
 
